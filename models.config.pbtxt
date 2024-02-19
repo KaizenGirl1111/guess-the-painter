@@ -1,0 +1,9 @@
+model_config_list {
+config {
+name: 'painters_models'
+base_path: 'D:/Code/impressionists/models'
+model_platform: 'tensorflow'
+model_version_policy: { all: {} }
+}
+}
+
